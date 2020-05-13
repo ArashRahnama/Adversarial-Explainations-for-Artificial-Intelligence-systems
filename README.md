@@ -1,3 +1,3 @@
 # Adversarial-Explainations-for-Artificial-Intelligence-systems-AXAI
 
-This is the codebase for the AXAI explainability algorithm for our paper "An Adversarial Approach for Explaining the Predictions of Deep Neural Networks" @ which is also under review for NeurIPS 2020.
+This is the codebase for our AXAI explainability algorithm from our paper "An Adversarial Approach for Explaining the Predictions of Deep Neural Networks" under review for NeurIPS 2020 and available @.
